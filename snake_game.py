@@ -20,12 +20,12 @@ angle = 90
 directory = os.getcwd()
 
 images = [
-    pygame.image.load("C:\\Users\\danpi\\Desktop\Coding\\Snake\\img\\head1.png").convert_alpha(),
-    pygame.image.load("C:\\Users\\danpi\\Desktop\Coding\\Snake\\img\\head2.png").convert_alpha(),
-    pygame.image.load("C:\\Users\\danpi\\Desktop\Coding\\Snake\\img\\head3.png").convert_alpha(),
-    pygame.image.load("C:\\Users\\danpi\\Desktop\Coding\\Snake\\img\\tail.png").convert_alpha(),
-    pygame.image.load("C:\\Users\\danpi\\Desktop\Coding\\Snake\\img\\fruit.png").convert_alpha(),
-    pygame.image.load("C:\\Users\\danpi\\Desktop\Coding\\Snake\\img\\corner3.png").convert_alpha(),
+    pygame.image.load(".\\img\\head1.png").convert_alpha(),
+    pygame.image.load(".\\img\\head2.png").convert_alpha(),
+    pygame.image.load(".\\img\\head3.png").convert_alpha(),
+    pygame.image.load(".\\img\\tail.png").convert_alpha(),
+    pygame.image.load(".\\img\\fruit.png").convert_alpha(),
+    pygame.image.load(".\\img\\corner3.png").convert_alpha(),
 ]
 
 
